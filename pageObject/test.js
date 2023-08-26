@@ -1,5 +1,5 @@
-const LoginPage = require('./LoginPage');
-const AccountPage = require('./AccountPage');
+const LoginPage = require('./loginPage');
+const AccountPage = require('./accountPage');
 
 describe('Login and Account Management', () => {
   it('should login and navigate to account page', () => {
